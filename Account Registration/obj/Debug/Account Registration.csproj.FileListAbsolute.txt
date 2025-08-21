@@ -1,0 +1,11 @@
+C:\Alcera_Rivzky\Account Registration\bin\Debug\Account Registration.exe.config
+C:\Alcera_Rivzky\Account Registration\bin\Debug\Account Registration.exe
+C:\Alcera_Rivzky\Account Registration\bin\Debug\Account Registration.pdb
+C:\Alcera_Rivzky\Account Registration\obj\Debug\Account Registration.csproj.AssemblyReference.cache
+C:\Alcera_Rivzky\Account Registration\obj\Debug\Account_Registration.frmRegistration.resources
+C:\Alcera_Rivzky\Account Registration\obj\Debug\Account_Registration.frmConfirm.resources
+C:\Alcera_Rivzky\Account Registration\obj\Debug\Account_Registration.Properties.Resources.resources
+C:\Alcera_Rivzky\Account Registration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+C:\Alcera_Rivzky\Account Registration\obj\Debug\Account Registration.csproj.CoreCompileInputs.cache
+C:\Alcera_Rivzky\Account Registration\obj\Debug\Account Registration.exe
+C:\Alcera_Rivzky\Account Registration\obj\Debug\Account Registration.pdb
